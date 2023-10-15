@@ -1,0 +1,31 @@
+.container__main_image{
+    width: 426px;
+    height: 464px;
+    object-fit: cover;
+    object-position: center center;
+    border-style: solid;
+    border-width: 28px 28px 28px 28px;
+    border-color: white;
+    border-radius: 250px 250px 250px 250px;
+}
+.container__secondary_image{
+    width: 300px;
+    height: 293px;
+    object-fit: cover;
+    object-position: center center;
+    border-style: solid;
+    border-width: 21px 21px 21px 21px;
+    border-color: #FFFFFF;
+    border-radius: 250px 250px 250px 250px;
+}
+
+.custom_icon{
+    font-size: 20px;
+    color: white;
+    background: #f3ec1a;
+    width: 31px;
+    padding: 6px;
+    border-radius: 39px;
+    margin-top: 12px;
+    margin-bottom: 19px;
+}

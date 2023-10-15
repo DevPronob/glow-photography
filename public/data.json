@@ -1,0 +1,117 @@
+[
+    {
+      "id": "11",
+      "name": "Portrait Photography",
+      "description": "Capture beautiful and timeless portraits for individuals and families.",
+      "pricing": "$200 - $500",
+      "duration": "1 - 2 hours",
+      "photographer": "John Smith",
+      "feature": true,
+      "location": "Studio or Outdoor",
+      "icon": "https://i.ibb.co/ZJFPxcq/portrait.png",
+      "samples": [
+        "https://images.unsplash.com/photo-1521119989659-a83eee488004?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1446&q=80",
+        "https://images.unsplash.com/photo-1504257432389-52343af06ae3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"
+      ],
+      "special_features": [
+        "Professional retouching included",
+        "Choice of backdrop",
+        "Digital and print copies"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Wedding Photography",
+      "description": "Comprehensive wedding photography coverage to capture your special day.",
+      "pricing": "$1,500 - $4,000",
+      "duration": "6 - 10 hours",
+      "feature": true,
+      "photographer": "Emily Davis",
+      "location": "Multiple locations",
+      "icon": "https://i.ibb.co/VvCPw8B/wedding-photo.png",
+      "samples": [
+        "https://images.unsplash.com/photo-1519225421980-715cb0215aed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+      ],
+      "special_features": [
+        "Engagement photoshoot",
+        "High-resolution images",
+        "Online gallery for easy sharing"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Product Photography",
+      "description": "High-quality product photography for e-commerce and marketing needs. Showcase your products in the best light.",
+      "pricing": "$300 - $1,000",
+      "duration": "Varies based on the project",
+      "photographer": "Sarah Johnson",
+      "location": "Studio or On-site",
+      "feature": true,
+      "icon": "https://i.ibb.co/j6rWy4V/studio.png",
+      "samples": [
+        "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+      ],
+      "special_features": [
+        "White background product shots",
+        "360-degree product views",
+        "Quick turnaround time"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Event Photography",
+      "description": "Capture the essence of your special events. Ideal for conferences, parties, and corporate gatherings.",
+      "pricing": "$500 - $1,200",
+      "duration": "4 - 8 hours",
+      "photographer": "Michael Lee",
+      "location": "Event venue",
+      "samples": [
+        "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80"
+      ],
+      "special_features": [
+        "Candid and posed shots",
+        "High-quality event coverage",
+        "Customizable photo packages"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Landscape Photography",
+      "description": "Capture the beauty of nature and scenic landscapes with our experienced photographers.",
+      "pricing": "$150 - $400",
+      "duration": "2 - 4 hours",
+      "photographer": "Jessica Adams",
+      "location": "Various outdoor locations",
+      "samples": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "https://plus.unsplash.com/premium_photo-1668024966086-bd66ba04262f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1492&q=80"
+      ],
+      "special_features": [
+        "Wide-angle and panoramic shots",
+        "Fine art prints available",
+        "Expertise in natural lighting"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Fashion Photography",
+      "description": "Create stunning fashion portfolios and lookbooks with our fashion photography services.",
+      "pricing": "$500 - $1,500",
+      "duration": "4 - 6 hours",
+      "photographer": "Sophie Roberts",
+      "location": "Studio or On-location",
+      "samples": [
+        "https://images.unsplash.com/photo-1445205170230-053b83016050?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
+        "https://images.unsplash.com/photo-1469334031218-e382a71b716b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+      ],
+      "special_features": [
+        "Professional hair and makeup artists available",
+        "Editorial and commercial style photography",
+        "Retouching and editing services"
+      ]
+    }
+  ]
+  
