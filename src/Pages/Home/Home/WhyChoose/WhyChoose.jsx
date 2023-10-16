@@ -23,26 +23,24 @@ const WhyChoose = () => {
             <h3 className='custom_icon'><MdVerified></MdVerified></h3>
             <div>
                 <h4 className='text-3xl font-extrabold'>Professional</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                     Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                <p>Being a professional involves a commitment to a high standard of work, ethics, and behavior, often accompanied by formal training, education, and a code of conduct. </p>
             </div>
           </div>
 
           <div className='flex items-center gap-4'>
             <h3 className='custom_icon'><BsCamera></BsCamera></h3>
             <div>
-                <h4 className='text-3xl font-extrabold'>Professional</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                     Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                <h4 className='text-3xl font-extrabold'>Camara</h4>
+                <p>amcorders, are devices specifically designed for capturing video footage. These devices come in various forms and are used for a wide range of applications</p>
             </div>
           </div>
 
           <div className='flex items-center gap-4'>
             <h3 className='custom_icon'><BiFootball></BiFootball></h3>
             <div className='pt-[17px]'>
-                <h4 className='text-3xl font-extrabold'>Professional</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                     Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                <h4 className='text-3xl font-extrabold'>Goal</h4>
+                <p>Make sure the goal aligns with your values and objectives.
+Time-Bound: Set a deadline or timeframe for when you want to achieve the goal.</p>
             </div>
           </div>
 

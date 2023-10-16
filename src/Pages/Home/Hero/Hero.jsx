@@ -13,17 +13,17 @@ const Hero = () => {
         {
             name:"Fashion",
             bg:"https://demo.unitemplates.com/camera/images/portfolio/photography-4/forest/mountain-forest.jpg#joomlaImage://local-images/portfolio/photography-4/forest/mountain-forest.jpg?width=1920&height=1080",
-            dec:"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam"
+            dec:"a dynamic and ever-evolving form of self-expression that goes beyond just clothing; it encompasses a wide range of styles, trends, and aesthetics. It's a reflection of our culture, identity, and personal tastes. Fashion enables individuals to convey their personality and creativity,"
         },
         {
             name:"Event",
             bg:"https://demo.unitemplates.com/camera/images/portfolio/photography-4/event/birthdays.jpg#joomlaImage://local-images/portfolio/photography-4/event/birthdays.jpg?width=1920&height=1080",
-            dec:"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam"
+            dec:"Events are organized occasions or occurrences that bring people together for a specific purpose, such as entertainment, education, networking, celebration, or raising awareness. Events can vary widely in size, scale"
         },
         {
             name:"Animals",
             bg:"https://demo.unitemplates.com/camera/images/portfolio/photography-4/animals/tiger.jpg#joomlaImage://local-images/portfolio/photography-4/animals/tiger.jpg?width=1920&height=1080",
-            dec:"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam"
+            dec:"Animal photography is a popular and fascinating genre of photography that focuses on capturing images of animals in their natural habitat, zoos, sanctuaries, or domestic environments."
         },
     ]
 

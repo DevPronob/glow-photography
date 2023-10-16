@@ -22,7 +22,7 @@ const Testomonial = () => {
               <p class="text-2xl font-bold">Absolutely recommended!</p>
 
               <blockquote class="mt-8 flex-1">
-                <p class="leading-relaxed text-blue-900">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium dolores facere repellendus, velit quis fugiat.</p>
+                <p class="leading-relaxed text-blue-900">The photography service exceeded our expectations. The images captured our special day with a level of artistry and emotion we could have only dreamed of.</p>
               </blockquote>
             </div>
 
@@ -41,7 +41,7 @@ const Testomonial = () => {
               <p class="text-2xl font-bold">Service was amazing!</p>
 
               <blockquote class="mt-8 flex-1">
-                <p class="leading-relaxed text-blue-900">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium dolores facere repellendus, velit quis fugiat.</p>
+                <p class="leading-relaxed text-blue-900">The photographer's attention to detail and dedication to ensuring every shot was perfect was truly impressive. We couldn't be happier with the results.</p>
               </blockquote>
             </div>
 
@@ -60,7 +60,7 @@ const Testomonial = () => {
               <p class="text-2xl font-bold">Saved me 1000s of hours</p>
 
               <blockquote class="mt-8 flex-1">
-                <p class="leading-relaxed text-blue-900">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium dolores facere repellendus, velit quis fugiat.</p>
+                <p class="leading-relaxed text-blue-900">Working with this photography service was a delight. They made us feel comfortable and natural in front of the camera, resulting in photographs that truly reflect our personalities and the essence of the moment</p>
               </blockquote>
             </div>
 

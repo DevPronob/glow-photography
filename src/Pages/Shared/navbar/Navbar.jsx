@@ -1,18 +1,23 @@
 import React from 'react';
+import { useAuthState } from 'react-firebase-hooks/auth';
+import auth from '../../../Firebase/Firebase.init';
+import { signOut } from 'firebase/auth';
+import { Link, Navigate } from 'react-router-dom';
 
 const Navbar = () => {
+
+  const [user, loading, error] = useAuthState(auth);
+  const logout = () => {
+    signOut(auth);
+    // localStorage.removeitem("accessToken")
+    Navigate("/")
+  };
     const navItems=<>
-<li><a>Item 1</a></li>
-      <li tabIndex={0}>
-        <details>
-          <summary>Parent</summary>
-          <ul className="p-2">
-            <li><a>Submenu 1</a></li>
-            <li><a>Submenu 2</a></li>
-          </ul>
-        </details>
-      </li>
-      <li><a>Item 3</a></li>
+<li><Link className='text-gray-600 hover:text-blue-600' to="/">Home</Link></li>
+      <li><Link className='text-gray-600 hover:text-blue-600' to="/service">Services</Link></li>
+      <li><Link className='text-gray-600 hover:text-blue-600' to="/about">About</Link></li>
+      <li><Link className='text-gray-600 hover:text-blue-600' to="/contact">Contact Us</Link></li>
+      <li>{user ? <button className="rounded-xl mt-[-3px] border-2 border-blue-600 px-6 py-2 font-medium text-blue-600 hover:bg-blue-600 hover:text-white" onClick={logout} >Sign Out</button> : <Link className='class="rounded-xl border-2 border-blue-600 px-6 py-2 font-medium text-blue-600 hover:bg-blue-600 hover:text-white"' to="/login">Login</Link>}</li>
     </>
     return (
         <div>

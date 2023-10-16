@@ -43,7 +43,7 @@ const Blog = () => {
         </div>
         <div class="p-5">
           <span class="py-2 text-xs font-bold">EBOOK</span>
-          <p class="mb-4 text-xl">Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+          <p class="mb-4 text-xl">Ebook Readers and Devices: Choosing the Right One for You</p>
         </div></a
       >
     </article>
@@ -56,7 +56,7 @@ const Blog = () => {
 
         <div class="p-5">
           <span class="py-2 text-xs font-bold">SUCCESS STORY</span>
-          <p class="mb-4 text-xl">Lorem ipsum dolor sit amet consectetur.</p>
+          <p class="mb-4 text-xl">From Home Kitchen to Multi-Million Dollar Bakery: The Rise of Sweet Sensations</p>
         </div></a
       >
     </article>
@@ -69,7 +69,7 @@ const Blog = () => {
 
         <div class="p-5">
           <span class="py-2 text-xs font-bold">WHITE PAPER</span>
-          <p class="mb-4 text-xl">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+          <p class="mb-4 text-xl">White papers are fact-based and rely on research and evidence to support their arguments</p>
         </div></a
       >
     </article>
